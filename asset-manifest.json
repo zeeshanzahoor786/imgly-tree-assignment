@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imgly-tree-assignment/static/css/main.eeb9ec8b.css",
+    "main.js": "/imgly-tree-assignment/static/js/main.1d62fb78.js",
+    "static/js/453.d8eec721.chunk.js": "/imgly-tree-assignment/static/js/453.d8eec721.chunk.js",
+    "index.html": "/imgly-tree-assignment/index.html",
+    "main.eeb9ec8b.css.map": "/imgly-tree-assignment/static/css/main.eeb9ec8b.css.map",
+    "main.1d62fb78.js.map": "/imgly-tree-assignment/static/js/main.1d62fb78.js.map",
+    "453.d8eec721.chunk.js.map": "/imgly-tree-assignment/static/js/453.d8eec721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb9ec8b.css",
+    "static/js/main.1d62fb78.js"
+  ]
+}
